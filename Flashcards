@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Flashcards</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Permanent+Marker&family=Unbounded&display=swap" rel="stylesheet">
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Permanent+Marker&family=Unbounded&display=swap');
+        </style>
+    </head>
+    <body>
+        <div class="quiz-area">
+            <h1 class="question">What is the capital of...</h1>
+            <div class="flex-container">
+                <div class="flex-item flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front"><p>Russia</p></div>
+                        <div class="flip-card-back"><p>Moscow</p></div>
+                    </div>
+                </div>
+                <div class="flex-item flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front"><p>USA</p></div>
+                        <div class="flip-card-back"><p>Washington</p></div>
+                    </div>
+                </div>
+                <div class="flex-item flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front"><p>Cyprus</p></div>
+                        <div class="flip-card-back"><p>Nicosia</p></div>
+                    </div>
+                </div>
+                <div class="flex-item flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front"><p>Bashkortostan</p></div>
+                        <div class="flip-card-back"><p>Ufa</p></div>
+                    </div>
+                </div>
+                <div class="flex-item flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front"><p>Ukraine</p></div>
+                        <div class="flip-card-back"><p>Kiev</p></div>
+                    </div>
+                </div>
+                <div class="flex-item flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front"><p>Angola</p></div>
+                        <div class="flip-card-back"><p>Luanda</p></div>
+                    </div>
+                </div>
+                <div class="flex-item flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front"><p>Canada</p></div>
+                        <div class="flip-card-back"><p>Ottawa</p></div>
+                    </div>
+                </div>
+                <div class="flex-item flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front"><p>Marokko</p></div>
+                        <div class="flip-card-back"><p>Rabat</p></div>
+                    </div>
+                </div>
+                <div class="flex-item flip-card">
+                    <div class="flip-card-inner">
+                        <div class="flip-card-front"><p>Switzerland</p></div>
+                        <div class="flip-card-back"><p>Berna</p></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
